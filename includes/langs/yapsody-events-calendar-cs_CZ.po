@@ -1,0 +1,227 @@
+# Translation of Yapsody Events Calendar in Czech
+# This file is distributed under the same license as the Yapsody Events Calendar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-02-23 13:53:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Yapsody Events Calendar\n"
+
+#: yapsody-events-calendar.php:307
+msgid "Settings"
+msgstr "Nastavení"
+
+#: yapevents-admin.php:62
+msgid "To use this plugin, simply use the %s shortcode in one of your posts or pages."
+msgstr "Pro použití pluginu jednoduše použijte %s shortcode v jednom z vašich příspěvků nebo stránek."
+
+#: yapevents-admin.php:63
+msgid "You can also do this with PHP and this snippet : %s."
+msgstr ""
+
+#: yapevents-admin.php:66
+msgid "Post Types"
+msgstr "Typy příspěvku"
+
+#: yapevents-admin.php:67
+msgid "By default, your calendar will show the types of posts based on settings below."
+msgstr "Ve výchozím stavu bude váš kalendář zobrazovat typy příspěvků na základě nastavení uvedeném níže."
+
+#: yapevents-admin.php:69
+msgid "You can override these settings by choosing your post type in your shortode like this %s."
+msgstr ""
+
+#: yapevents-admin.php:70
+msgid "You can override taxonomy search settings as well like this %s."
+msgstr ""
+
+#: yapevents-admin.php:71
+msgid "In both cases, the values you should use are in (parenteses) below."
+msgstr ""
+
+#: yapevents-admin.php:86
+msgid "Choose which taxonomies you want to see listed as search options on the calendar."
+msgstr ""
+
+#: yapevents-admin.php:109
+msgid "Calendar Options"
+msgstr "Nastavení kalendáře"
+
+#: yapevents-admin.php:113
+msgid "Events limit"
+msgstr "Limit událostí"
+
+#: yapevents-admin.php:113
+msgid "Enter the maximum number of events to show per day, which will then be preceded by a link to the calendar day page."
+msgstr "Zadejte maximální počet událostí k zobrazení v jednom dni, které budou předcházet odkazem na stránku dne kalendáře."
+
+#: yapevents-admin.php:114
+msgid "View events link"
+msgstr "Zobrazit odkaz událostí"
+
+#: yapevents-admin.php:114
+msgid "When the limit of events is shown for one day, this text will be used for the link to the calendar day page."
+msgstr ""
+
+#: yapevents-admin.php:117
+msgid "jQuery UI Themeroller"
+msgstr ""
+
+#: yapevents-admin.php:118
+msgid "You can select from a set of pre-made CSS themes, which are taken from the <a href=\"%s\">jQuery Theme Roller</a> gallery. If you roll your own theme, upload the CSS file and images folder to <code>wp-content/yourtheme/plugins/yapsody-events-calendar/</code> and refresh this page, it should appear an option in the pull down menu below."
+msgstr ""
+
+#: yapevents-admin.php:135
+msgid "jQuery CSS Theme?"
+msgstr "jQuery CSS šablona?"
+
+#: yapevents-admin.php:138
+msgid "No Theme"
+msgstr "Žádná šablona"
+
+#: yapevents-admin.php:139
+msgid "Built-In"
+msgstr "Vestavěné"
+
+#: yapevents-admin.php:145
+msgid "Custom"
+msgstr "Vlastní"
+
+#: yapevents-admin.php:152
+msgid "You can use the jQuery UI CSS framework to style the calendar, and choose from a set of themes below."
+msgstr ""
+
+#: yapevents-admin.php:156
+msgid "Toolips"
+msgstr "Popisky"
+
+#: yapevents-admin.php:157
+msgid "You can use <a href=\"http://craigsworks.com/projects/qtip2/\">jQuery qTips</a> to show excerpts of your events within a tooltip when hovering over a specific event on the calendar. You can control the content shown, positioning and style of the tool tips below."
+msgstr ""
+
+#: yapevents-admin.php:160
+msgid "Enable event tooltips?"
+msgstr "Povolit popisky události?"
+
+#: yapevents-admin.php:165
+msgid "Tooltip style"
+msgstr "Styl popisku"
+
+#: yapevents-admin.php:165
+msgid "You can choose from one of these preset styles for your tooltip."
+msgstr "Můžete si vybrat jeden z těchto přednastavených stylů pro popisek."
+
+#: yapevents-admin.php:166
+msgid "Rounded tooltips?"
+msgstr "Zaoblené popisky?"
+
+#: yapevents-admin.php:166
+msgid "If your chosen tooltip style doesn't already do/prevent this, you can add rounded corners using CSS3."
+msgstr ""
+
+#: yapevents-admin.php:167
+msgid "Add shadow to tooltips?"
+msgstr "Přidat stín k popisku"
+
+#: yapevents-admin.php:167
+msgid "If your chosen tooltip style doesn't already do/prevent this, you can add a CSS3 drop-shadow effect to your tooltip."
+msgstr ""
+
+#: yapevents-admin.php:172
+msgid "Tooltip pointer position"
+msgstr "Umístění kurzoru popisku"
+
+#: yapevents-admin.php:172
+msgid "Choose where the pointer will be situated on your tooltip."
+msgstr "Vyberte, kam na událost bude ukazatel směřovat."
+
+#: yapevents-admin.php:173
+msgid "Tooltip bubble position"
+msgstr "Umístění bubliny popisku"
+
+#: yapevents-admin.php:173
+msgid "Choose where your tooltip will be situated relative to the event link which triggers the tooltip."
+msgstr ""
+
+#: yapevents-admin.php:174
+msgid "Enable featured image?"
+msgstr "Povolit náhledový obrázek?"
+
+#: yapevents-admin.php:174
+msgid "If your post has a featured image, it will be included as a thumbnail."
+msgstr "Pokud mají vaše příspěvky náhledový obrázek, bude tento obrázek použit jako náhled."
+
+#: yapevents-admin.php:177
+msgid "Featured image size"
+msgstr "Velikost náhledového obrázku"
+
+#: yapevents-admin.php:179
+msgid "Width"
+msgstr "Šířka"
+
+#: yapevents-admin.php:180
+msgid "Height"
+msgstr "Šířka"
+
+#: yapevents-admin.php:185
+msgid "Submit Changes"
+msgstr "Potvrdit změny"
+
+#: yapevents-admin.php:264
+msgid "No"
+msgstr "Ne"
+
+#: yapevents-admin.php:264
+msgid "Yes"
+msgstr "Ano"
+
+#: yapevents-events-manager.php:54
+msgid "If you choose the Event post type whilst Events Manager is activated, you can also visit the <a href=\"%s\">Events Manager settings page</a> for a few more options when displaying event information on your calendar."
+msgstr ""
+
+#: yapevents-events-manager.php:322
+msgid "Click to toggle"
+msgstr "Klikněte pro přepnutí"
+
+#: yapevents-events-manager.php:322
+msgid "Full Calendar Options"
+msgstr "Nastavení Full Calendar"
+
+#: yapevents-events-manager.php:324
+msgid "Looking for the rest of the FullCalendar Options? They've moved <a href=\"%s\">here</a>, the options below are for overriding specific bits relevant to Events Manager."
+msgstr ""
+
+#: yapevents-events-manager.php:328
+msgid "Override calendar on events page?"
+msgstr "Přepsat kalendář na stránce událostí?"
+
+#: yapevents-events-manager.php:328
+msgid "If set to yes, the FullCalendar will be used instead of the standard calendar on the events page."
+msgstr "Pokud je nastaveno ano, FullCalendar bude použit na stránce událostí místo standardního kalendáře ."
+
+#: yapevents-events-manager.php:329
+msgid "Override calendar shortcode?"
+msgstr "Přepsat shortcode kalendáře?"
+
+#: yapevents-events-manager.php:329
+msgid "Overrides the default calendar shortcode. You can also use [yapsody_events] instead."
+msgstr "Přepsat výchozí shortcode kalendáře. Můžete také použít [yapsody_events]."
+
+#: yapevents-events-manager.php:330
+msgid "Event title format"
+msgstr "Formát názvu události"
+
+#: yapevents-events-manager.php:330
+msgid "HTML is not accepted."
+msgstr "HTML není akceptován"
+
+#: yapevents-events-manager.php:331
+msgid "Event tooltips format"
+msgstr "Formát popisků události"
+
+#: yapevents-events-manager.php:331
+msgid "If you enable tips, this information will be shwon, which can include HTML."
+msgstr ""

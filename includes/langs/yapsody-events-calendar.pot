@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yapsody Events Calendar v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-19 13:17:28+0000\n"
+"Last-Translator: admin <msykes@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Afrikaans\n"
+"X-Poedit-Country: SOUTH AFRICA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: yapsody-events-calendar.php:307
+#@ yapevents
+msgid "Settings"
+msgstr ""
+
+#: yapevents-admin.php:62
+#, php-format
+#@ yapevents
+msgid "To use this plugin, simply use the %s shortcode in one of your posts or pages."
+msgstr ""
+
+#: yapevents-admin.php:63
+#, php-format
+#@ yapevents
+msgid "You can also do this with PHP and this snippet : %s."
+msgstr ""
+
+#: yapevents-admin.php:66
+#@ yapevents
+msgid "Post Types"
+msgstr ""
+
+#: yapevents-admin.php:67
+#@ yapevents
+msgid "By default, your calendar will show the types of posts based on settings below."
+msgstr ""
+
+#: yapevents-admin.php:69
+#, php-format
+#@ yapevents
+msgid "You can override these settings by choosing your post type in your shortode like this %s."
+msgstr ""
+
+#: yapevents-admin.php:70
+#, php-format
+#@ yapevents
+msgid "You can override taxonomy search settings as well like this %s."
+msgstr ""
+
+#: yapevents-admin.php:71
+#@ yapevents
+msgid "In both cases, the values you should use are in (parenteses) below."
+msgstr ""
+
+#: yapevents-admin.php:86
+#@ yapevents
+msgid "Choose which taxonomies you want to see listed as search options on the calendar."
+msgstr ""
+
+#: yapevents-admin.php:109
+#@ yapevents
+msgid "Calendar Options"
+msgstr ""
+
+#: yapevents-admin.php:113
+#@ yapevents
+msgid "Events limit"
+msgstr ""
+
+#: yapevents-admin.php:113
+#@ yapevents
+msgid "Enter the maximum number of events to show per day, which will then be preceded by a link to the calendar day page."
+msgstr ""
+
+#: yapevents-admin.php:114
+#@ yapevents
+msgid "View events link"
+msgstr ""
+
+#: yapevents-admin.php:114
+#@ yapevents
+msgid "When the limit of events is shown for one day, this text will be used for the link to the calendar day page."
+msgstr ""
+
+#: yapevents-admin.php:117
+#@ yapevents
+msgid "jQuery UI Themeroller"
+msgstr ""
+
+#: yapevents-admin.php:118
+#, php-format
+#@ yapevents
+msgid "You can select from a set of pre-made CSS themes, which are taken from the <a href=\"%s\">jQuery Theme Roller</a> gallery. If you roll your own theme, upload the CSS file and images folder to <code>wp-content/yourtheme/plugins/yapsody-events-calendar/</code> and refresh this page, it should appear an option in the pull down menu below."
+msgstr ""
+
+#: yapevents-admin.php:135
+#@ yapevents
+msgid "jQuery CSS Theme?"
+msgstr ""
+
+#: yapevents-admin.php:138
+#@ yapevents
+msgid "No Theme"
+msgstr ""
+
+#: yapevents-admin.php:139
+#@ yapevents
+msgid "Built-In"
+msgstr ""
+
+#: yapevents-admin.php:145
+#@ yapevents
+msgid "Custom"
+msgstr ""
+
+#: yapevents-admin.php:152
+#@ yapevents
+msgid "You can use the jQuery UI CSS framework to style the calendar, and choose from a set of themes below."
+msgstr ""
+
+#: yapevents-admin.php:156
+#@ yapevents
+msgid "Toolips"
+msgstr ""
+
+#: yapevents-admin.php:157
+#@ yapevents
+msgid "You can use <a href=\"http://craigsworks.com/projects/qtip2/\">jQuery qTips</a> to show excerpts of your events within a tooltip when hovering over a specific event on the calendar. You can control the content shown, positioning and style of the tool tips below."
+msgstr ""
+
+#: yapevents-admin.php:160
+#@ yapevents
+msgid "Enable event tooltips?"
+msgstr ""
+
+#: yapevents-admin.php:165
+#@ yapevents
+msgid "Tooltip style"
+msgstr ""
+
+#: yapevents-admin.php:165
+#@ yapevents
+msgid "You can choose from one of these preset styles for your tooltip."
+msgstr ""
+
+#: yapevents-admin.php:166
+#@ yapevents
+msgid "Rounded tooltips?"
+msgstr ""
+
+#: yapevents-admin.php:166
+#@ yapevents
+msgid "If your chosen tooltip style doesn't already do/prevent this, you can add rounded corners using CSS3."
+msgstr ""
+
+#: yapevents-admin.php:167
+#@ yapevents
+msgid "Add shadow to tooltips?"
+msgstr ""
+
+#: yapevents-admin.php:167
+#@ yapevents
+msgid "If your chosen tooltip style doesn't already do/prevent this, you can add a CSS3 drop-shadow effect to your tooltip."
+msgstr ""
+
+#: yapevents-admin.php:172
+#@ yapevents
+msgid "Tooltip pointer position"
+msgstr ""
+
+#: yapevents-admin.php:172
+#@ yapevents
+msgid "Choose where the pointer will be situated on your tooltip."
+msgstr ""
+
+#: yapevents-admin.php:173
+#@ yapevents
+msgid "Tooltip bubble position"
+msgstr ""
+
+#: yapevents-admin.php:173
+#@ yapevents
+msgid "Choose where your tooltip will be situated relative to the event link which triggers the tooltip."
+msgstr ""
+
+#: yapevents-admin.php:174
+#@ yapevents
+msgid "Enable featured image?"
+msgstr ""
+
+#: yapevents-admin.php:174
+#@ yapevents
+msgid "If your post has a featured image, it will be included as a thumbnail."
+msgstr ""
+
+#: yapevents-admin.php:177
+#@ yapevents
+msgid "Featured image size"
+msgstr ""
+
+#: yapevents-admin.php:179
+#@ yapevents
+msgid "Width"
+msgstr ""
+
+#: yapevents-admin.php:180
+#@ yapevents
+msgid "Height"
+msgstr ""
+
+#: yapevents-admin.php:185
+#@ yapevents
+msgid "Submit Changes"
+msgstr ""
+
+#: yapevents-admin.php:264
+#@ dbem
+msgid "No"
+msgstr ""
+
+#: yapevents-admin.php:264
+#@ dbem
+msgid "Yes"
+msgstr ""
+
+#: yapevents-events-manager.php:54
+#, php-format
+#@ dbem
+msgid "If you choose the Event post type whilst Events Manager is activated, you can also visit the <a href=\"%s\">Events Manager settings page</a> for a few more options when displaying event information on your calendar."
+msgstr ""
+
+#: yapevents-events-manager.php:322
+#@ dbem
+msgid "Click to toggle"
+msgstr ""
+
+#: yapevents-events-manager.php:322
+#@ dbem
+msgid "Full Calendar Options"
+msgstr ""
+
+#: yapevents-events-manager.php:324
+#, php-format
+#@ dbem
+msgid "Looking for the rest of the FullCalendar Options? They've moved <a href=\"%s\">here</a>, the options below are for overriding specific bits relevant to Events Manager."
+msgstr ""
+
+#: yapevents-events-manager.php:328
+#@ dbem
+msgid "Override calendar on events page?"
+msgstr ""
+
+#: yapevents-events-manager.php:328
+#@ dbem
+msgid "If set to yes, the FullCalendar will be used instead of the standard calendar on the events page."
+msgstr ""
+
+#: yapevents-events-manager.php:329
+#@ dbem
+msgid "Override calendar shortcode?"
+msgstr ""
+
+#: yapevents-events-manager.php:329
+#@ dbem
+msgid "Overrides the default calendar shortcode. You can also use [yapsody_events] instead."
+msgstr ""
+
+#: yapevents-events-manager.php:330
+#@ yapevents
+msgid "Event title format"
+msgstr ""
+
+#: yapevents-events-manager.php:330
+#@ yapevents
+msgid "HTML is not accepted."
+msgstr ""
+
+#: yapevents-events-manager.php:331
+#@ yapevents
+msgid "Event tooltips format"
+msgstr ""
+
+#: yapevents-events-manager.php:331
+#@ yapevents
+msgid "If you enable tips, this information will be shwon, which can include HTML."
+msgstr ""
+
